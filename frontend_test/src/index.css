@@ -1,0 +1,12 @@
+:root {
+  --c-error: #cf1322;
+  --c-warning: #d46b08;
+  --c-info: #0958d9;
+  --c-ok: #389e0d;
+  --grid-line: #f0f0f0;
+}
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; margin: 0; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
